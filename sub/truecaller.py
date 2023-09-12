@@ -4,7 +4,7 @@ import  requests
 
 head={
     "Host": "search5-noneu.truecaller.com",
-    "authorization": "Bearer a1i0j--SzcjdRk4kWGdR84ri9ct_XKaOYlQ3tNnS1SmJfIX30whjJaJPS5yl5blt",
+    "authorization": "Bearer a1i0g--hrzPvKVUFWANTw7VzjsKZAm18i9QPxh4KQtVLyYy_4WmJhBi9P6xdV7PY",
     "accept-encoding": "gzip",
     "user-agent": "Truecaller/11.66.7 (Android;10)"
  } 
